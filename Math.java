@@ -11,7 +11,20 @@ class Math{
 	System.out.print("Trzy ostatnie oceny to: ");
 	System.out.print(Rate[4]+", ");
 	System.out.print(Rate[3]+", ");
+	System.out.println(Rate[2]+", ");
+	
+	System.out.println(" ");
+	
+		Rate[1]= 5;
+	System.out.println("Porawa drugiej oceny na: "+Rate[1]);
+	System.out.println(" ");
+	
+	System.out.print("Oceny od najmniejszej do najwiekszej: ");
 	System.out.print(Rate[2]+", ");
+	System.out.print(Rate[3]+", ");
+	System.out.print(Rate[4]+", ");
+	System.out.print(Rate[0]+", ");
+	System.out.print(Rate[1]+", ");
 	
 	
 	
